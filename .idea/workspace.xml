@@ -36,7 +36,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1664365551671</updated>
-      <workItem from="1664365552888" duration="376000" />
+      <workItem from="1664365552888" duration="738000" />
     </task>
     <task id="LOCAL-00001" summary="user-service">
       <created>1664365587972</created>
@@ -52,7 +52,14 @@
       <option name="project" value="LOCAL" />
       <updated>1664365687119</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="yml user">
+      <created>1664366056565</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1664366056565</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -61,6 +68,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="user-service" />
     <MESSAGE value="task-service" />
-    <option name="LAST_COMMIT_MESSAGE" value="task-service" />
+    <MESSAGE value="yml user" />
+    <option name="LAST_COMMIT_MESSAGE" value="yml user" />
   </component>
 </project>
