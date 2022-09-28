@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f8bdf7f1-58be-456f-bbcf-26fb4eb502bb" name="Changes" comment="" />
+    <list default="true" id="f8bdf7f1-58be-456f-bbcf-26fb4eb502bb" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -25,6 +27,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "/home/kimgech/Documents/yarith_kimgech_PP_mini_spring_microservice",
     "nodejs_package_manager_path": "npm"
   }
 }]]></component>
@@ -36,7 +39,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1664365551671</updated>
-      <workItem from="1664365552888" duration="1101000" />
+      <workItem from="1664365552888" duration="2494000" />
+      <workItem from="1664373825063" duration="1018000" />
     </task>
     <task id="LOCAL-00001" summary="user-service">
       <created>1664365587972</created>
@@ -66,7 +70,14 @@
       <option name="project" value="LOCAL" />
       <updated>1664366397644</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="yml user">
+      <created>1664366837822</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1664366837822</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
